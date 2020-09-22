@@ -24,9 +24,11 @@ jupyter labextension install @jupyterlab/github
 
 * cliquer la dessus 
 * puis dans la zone en haut taper 
+
 ```
 lycee-pilote-du-kef
 ```
 
 <img src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/screen2.png"/>
+
 * le projet figure maintenant dans votre navigateur
