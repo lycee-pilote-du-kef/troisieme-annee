@@ -8,10 +8,10 @@ il contient des cours, des évaluations et des exercices de révision
 * Télécharer et installer anaconda https://www.anaconda.com/products/individual#Downloads
 * lancer Anaconda 
 
-<img src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/fenetre.png"/>
+<img width="70%" src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/fenetre.png"/>
 
 * Ensuite lancer  anaconda lancer CMD.exe Prompt
-<img src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/cmd.png"/>
+<img width="70%" src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/cmd.png"/>
 * Pour installer l'extension labextension Taper la commande suivante puis taper Entrée
 
 ```
@@ -20,7 +20,7 @@ jupyter labextension install @jupyterlab/github
 ```
 
 * une fois l'extension est installer elle apparait a gauche dans la fenetre d'anaconda navigator
-<img src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/screen.png"/>
+<img width="70%" src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/screen.png"/>
 
 * cliquer la dessus 
 * puis dans la zone en haut taper 
@@ -29,6 +29,6 @@ jupyter labextension install @jupyterlab/github
 lycee-pilote-du-kef
 ```
 
-<img src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/screen2.png"/>
+<img width="70%" src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/screen2.png"/>
 
 * le projet figure maintenant dans votre navigateur
