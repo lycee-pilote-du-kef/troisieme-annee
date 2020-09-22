@@ -5,7 +5,7 @@ il conteint un support de cours Algiritmique et programmation avec le language P
 ce support joue représente une référence aux élèves, En l'absence de manuel, ce livre jouera le rôle d'un manuel scolaire pour les élèves
 il contient des cours, des évaluations et des exercices de révision
 # Comment l'utiliser
-* Télécharer et installer anaconda https://www.anaconda.com/products/individual#Downloads
+* Télécharer et installer [Anaconda](https://www.anaconda.com/products/individual#Downloads)
 * lancer Anaconda 
 
 <img width="70%" src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/fenetre.png"/>
