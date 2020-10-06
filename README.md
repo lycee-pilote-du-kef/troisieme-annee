@@ -6,6 +6,7 @@ ce support joue représente une référence aux élèves, En l'absence de manuel
 il contient des cours, des évaluations et des exercices de révision
 # Comment l'utiliser
 * Télécharer et installer [Anaconda](https://www.anaconda.com/products/individual#Downloads)
+* Télécharer et installer [nodejs](https://nodejs.org/en/download/)
 * lancer Anaconda 
 
 <img width="70%" src="https://github.com/lycee-pilote-du-kef/troisieme-annee/blob/master/assets/img/fenetre.png"/>
